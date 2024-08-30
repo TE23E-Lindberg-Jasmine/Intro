@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj": {}
+    "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj": {
+    "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj",
+        "projectUniqueName": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj",
         "projectName": "lukt-text",
-        "projectPath": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj",
+        "projectPath": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\lukt-text.csproj",
         "packagesPath": "C:\\Users\\Jasmine.lindberg1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\obj\\",
+        "outputPath": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\Intro\\lukt-text\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

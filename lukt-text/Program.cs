@@ -3,7 +3,6 @@ String plats;
 String kändis;
 
 
-
 Console.ForegroundColor = ConsoleColor.DarkMagenta;
 Console.BackgroundColor = ConsoleColor.Cyan;
 Console.Clear(); 
