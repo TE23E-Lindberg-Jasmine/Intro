@@ -1,0 +1,14 @@
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\bin\Debug\net8.0\lukt-text.exe
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\bin\Debug\net8.0\lukt-text.deps.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\bin\Debug\net8.0\lukt-text.runtimeconfig.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\bin\Debug\net8.0\lukt-text.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\bin\Debug\net8.0\lukt-text.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.AssemblyInfoInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.AssemblyInfo.cs
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.csproj.CoreCompileInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\refint\lukt-text.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\lukt-text.genruntimeconfig.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\Intro\lukt-text\obj\Debug\net8.0\ref\lukt-text.dll
